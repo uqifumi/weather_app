@@ -7,7 +7,7 @@ Project ini dibuat sebagai contoh pembelajaran untuk memahami bagaimana aplikasi
 ## 📱 Tampilan Aplikasi
 
 <p align="center">
-  <img src="screenshots.png" alt="Flutter Weather App" width="320">
+  <img src="screenshot.png" alt="Flutter Weather App" width="320">
 </p>
 
 Aplikasi menampilkan:
