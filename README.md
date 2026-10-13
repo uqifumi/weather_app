@@ -10,7 +10,7 @@ Project ini dibuat sebagai contoh pembelajaran untuk memahami bagaimana aplikasi
   <img src="screenshot.png" alt="Flutter Weather App" width="160">
 </p>
 
-Aplikasi menampilkan:
+<b>Aplikasi menampilkan:</b>
 
 * 📍 Nama lokasi
 * 🌡️ Suhu saat ini
