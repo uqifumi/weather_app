@@ -9,7 +9,7 @@ Project ini dibuat sebagai contoh pembelajaran untuk memahami bagaimana aplikasi
 <p align="center">
   <img src="screenshot.png" alt="Flutter Weather App" width="160">
 </p>
-
+<hr>
 <b>Aplikasi menampilkan:</b>
 
 * 📍 Nama lokasi
